@@ -4563,6 +4563,39 @@
         "blob/f90e55e71f5ad130bd58502747e330e6bf3a4cc0.nq.gz",
         "blob/a1e8a0cee7d835b764d9dbfa00ae340e946572c0.nq.gz",
         "blob/032cc21b22bf10441f4e4db1ac666d072bd40a0e.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/79e0c8fe1991a6a613ff1ace107b646a6832dd5a.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/79e0c8fe1991a6a613ff1ace107b646a6832dd5a.nq.gz",
+      "repolex": "aggregate/repolex/79e0c8fe1991a6a613ff1ace107b646a6832dd5a.nq.gz",
+      "dep": "dep/79e0c8fe1991a6a613ff1ace107b646a6832dd5a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "twine",
+          "githubOrg": "pypa",
+          "githubRepo": "twine"
+        },
+        {
+          "packageName": "clint",
+          "githubOrg": "kennethreitz",
+          "githubRepo": "clint"
+        },
+        {
+          "packageName": "pretend",
+          "githubOrg": "alex",
+          "githubRepo": "pretend"
+        },
+        {
+          "packageName": "requests-toolbelt",
+          "githubOrg": "requests",
+          "githubRepo": "toolbelt"
+        }
       ]
     }
   ],
