@@ -939,6 +939,59 @@
         "blob/01eea0fe2f71f308e5549a45a59ada7d56695960.nq.gz",
         "blob/f90e55e71f5ad130bd58502747e330e6bf3a4cc0.nq.gz",
         "blob/a1e8a0cee7d835b764d9dbfa00ae340e946572c0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e8ed66e4f8e658da84da62dc480402a5d5b51687.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e8ed66e4f8e658da84da62dc480402a5d5b51687.nq.gz",
+      "repolex": "aggregate/repolex/e8ed66e4f8e658da84da62dc480402a5d5b51687.nq.gz",
+      "dep": "dep/e8ed66e4f8e658da84da62dc480402a5d5b51687.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "twine",
+          "githubOrg": "pypa",
+          "githubRepo": "twine"
+        },
+        {
+          "packageName": "tqdm",
+          "githubOrg": "tqdm",
+          "githubRepo": "tqdm"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "pretend",
+          "githubOrg": "alex",
+          "githubRepo": "pretend"
+        },
+        {
+          "packageName": "helpers",
+          "githubOrg": "infosmith",
+          "githubRepo": "helpers"
+        },
+        {
+          "packageName": "requests-toolbelt",
+          "githubOrg": "requests",
+          "githubRepo": "toolbelt"
+        },
+        {
+          "packageName": "pyblake2",
+          "githubOrg": "dchest",
+          "githubRepo": "pyblake2"
+        },
+        {
+          "packageName": "readme-renderer",
+          "githubOrg": "pypa",
+          "githubRepo": "readme_renderer"
+        },
+        {
+          "packageName": "keyring",
+          "githubOrg": "jaraco",
+          "githubRepo": "keyring"
+        }
       ]
     }
   ],
