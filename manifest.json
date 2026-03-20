@@ -1402,6 +1402,19 @@
         "blob/01eea0fe2f71f308e5549a45a59ada7d56695960.nq.gz",
         "blob/f90e55e71f5ad130bd58502747e330e6bf3a4cc0.nq.gz",
         "blob/a1e8a0cee7d835b764d9dbfa00ae340e946572c0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/9b859a8796fb639095547ed694643e9d4d23e3be.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9b859a8796fb639095547ed694643e9d4d23e3be.nq.gz",
+      "repolex": "aggregate/repolex/9b859a8796fb639095547ed694643e9d4d23e3be.nq.gz",
+      "dep": "dep/9b859a8796fb639095547ed694643e9d4d23e3be.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "twine",
+          "githubOrg": "pypa",
+          "githubRepo": "twine"
+        }
       ]
     }
   ],
