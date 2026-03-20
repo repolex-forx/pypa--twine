@@ -2050,6 +2050,29 @@
         "blob/783f3525f5e133b7af675a9069a2ef0bdb5a0e51.nq.gz",
         "blob/f90e55e71f5ad130bd58502747e330e6bf3a4cc0.nq.gz",
         "blob/a1e8a0cee7d835b764d9dbfa00ae340e946572c0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/6cb70f42e3583c0d79a2e2656604bc2a1ea9b599.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6cb70f42e3583c0d79a2e2656604bc2a1ea9b599.nq.gz",
+      "repolex": "aggregate/repolex/6cb70f42e3583c0d79a2e2656604bc2a1ea9b599.nq.gz",
+      "dep": "dep/6cb70f42e3583c0d79a2e2656604bc2a1ea9b599.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "pretend",
+          "githubOrg": "alex",
+          "githubRepo": "pretend"
+        },
+        {
+          "packageName": "twine",
+          "githubOrg": "pypa",
+          "githubRepo": "twine"
+        }
       ]
     }
   ],
