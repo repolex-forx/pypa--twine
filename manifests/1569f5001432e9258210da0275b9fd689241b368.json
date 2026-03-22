@@ -1,0 +1,71 @@
+{
+  "commit": "1569f5001432e9258210da0275b9fd689241b368",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/1569f5001432e9258210da0275b9fd689241b368.nq.gz",
+      "size_bytes": 445763
+    },
+    "dep": {
+      "path": "dep/1569f5001432e9258210da0275b9fd689241b368.nq.gz",
+      "size_bytes": 1016
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "tqdm",
+      "packageVersion": "4.9.0",
+      "githubOrg": "tqdm",
+      "githubRepo": "tqdm",
+      "githubCommit": "a65e34751843141527b0af76f8133be7e92fa043"
+    },
+    {
+      "packageName": "twine",
+      "packageVersion": "6.2.0",
+      "githubOrg": "pypa",
+      "githubRepo": "twine",
+      "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
+    },
+    {
+      "packageName": "pyblake2",
+      "packageVersion": "1.1.2",
+      "githubOrg": "dchest",
+      "githubRepo": "pyblake2",
+      "githubCommit": "d6e74dd077cf1ec7f89af04ee80fabd2f0246d11"
+    },
+    {
+      "packageName": "pretend",
+      "packageVersion": "1.0.9",
+      "githubOrg": "alex",
+      "githubRepo": "pretend",
+      "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "keyring",
+      "packageVersion": "9.3.1",
+      "githubOrg": "jaraco",
+      "githubRepo": "keyring",
+      "githubCommit": "f8652ed31ec9dc9622ecf838794b3890fc15d9ef"
+    },
+    {
+      "packageName": "requests-toolbelt",
+      "packageVersion": "1.0.0",
+      "githubOrg": "requests",
+      "githubRepo": "toolbelt",
+      "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2"
+    },
+    {
+      "packageName": "helpers",
+      "packageVersion": "0.2.0",
+      "githubOrg": "infosmith",
+      "githubRepo": "helpers",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
