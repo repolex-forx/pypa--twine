@@ -1,0 +1,50 @@
+{
+  "commit": "7089ba991bca7737184409f46f175649614b9b4c",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/7089ba991bca7737184409f46f175649614b9b4c.nq.gz",
+      "size_bytes": 367350
+    },
+    "dep": {
+      "path": "dep/7089ba991bca7737184409f46f175649614b9b4c.nq.gz",
+      "size_bytes": 741
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "twine",
+      "packageVersion": "6.2.0",
+      "githubOrg": "pypa",
+      "githubRepo": "twine",
+      "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "clint",
+      "packageVersion": "0.5.1",
+      "githubOrg": "kennethreitz",
+      "githubRepo": "clint",
+      "githubCommit": "2bd5aef5bc3612b55a0ecb3c3ac47a38dfbf642c"
+    },
+    {
+      "packageName": "pretend",
+      "packageVersion": "1.0.9",
+      "githubOrg": "alex",
+      "githubRepo": "pretend",
+      "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
+    },
+    {
+      "packageName": "requests-toolbelt",
+      "packageVersion": "1.0.0",
+      "githubOrg": "requests",
+      "githubRepo": "toolbelt",
+      "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2"
+    }
+  ]
+}
