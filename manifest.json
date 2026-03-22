@@ -3481,49 +3481,67 @@
       "dep": "dep/e8ed66e4f8e658da84da62dc480402a5d5b51687.nq.gz",
       "dependencies": [
         {
-          "packageName": "twine",
-          "githubOrg": "pypa",
-          "githubRepo": "twine"
+          "packageName": "helpers",
+          "packageVersion": "0.2.0",
+          "githubOrg": "infosmith",
+          "githubRepo": "helpers",
+          "githubCommit": "HEAD"
         },
         {
-          "packageName": "tqdm",
-          "githubOrg": "tqdm",
-          "githubRepo": "tqdm"
+          "packageName": "twine",
+          "packageVersion": "6.2.0",
+          "githubOrg": "pypa",
+          "githubRepo": "twine",
+          "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
         },
         {
           "packageName": "pytest",
+          "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "tqdm",
+          "packageVersion": "4.9.0",
+          "githubOrg": "tqdm",
+          "githubRepo": "tqdm",
+          "githubCommit": "a65e34751843141527b0af76f8133be7e92fa043"
         },
         {
           "packageName": "pretend",
+          "packageVersion": "1.0.9",
           "githubOrg": "alex",
-          "githubRepo": "pretend"
-        },
-        {
-          "packageName": "helpers",
-          "githubOrg": "infosmith",
-          "githubRepo": "helpers"
+          "githubRepo": "pretend",
+          "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
         },
         {
           "packageName": "requests-toolbelt",
+          "packageVersion": "1.0.0",
           "githubOrg": "requests",
-          "githubRepo": "toolbelt"
-        },
-        {
-          "packageName": "pyblake2",
-          "githubOrg": "dchest",
-          "githubRepo": "pyblake2"
-        },
-        {
-          "packageName": "readme-renderer",
-          "githubOrg": "pypa",
-          "githubRepo": "readme_renderer"
+          "githubRepo": "toolbelt",
+          "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2"
         },
         {
           "packageName": "keyring",
+          "packageVersion": "9.3.1",
           "githubOrg": "jaraco",
-          "githubRepo": "keyring"
+          "githubRepo": "keyring",
+          "githubCommit": "f8652ed31ec9dc9622ecf838794b3890fc15d9ef"
+        },
+        {
+          "packageName": "pyblake2",
+          "packageVersion": "1.1.2",
+          "githubOrg": "dchest",
+          "githubRepo": "pyblake2",
+          "githubCommit": "d6e74dd077cf1ec7f89af04ee80fabd2f0246d11"
+        },
+        {
+          "packageName": "readme-renderer",
+          "packageVersion": "44.0.0",
+          "githubOrg": "pypa",
+          "githubRepo": "readme_renderer",
+          "githubCommit": "HEAD"
         }
       ]
     },
