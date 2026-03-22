@@ -6717,24 +6717,32 @@
       "dep": "dep/734816524ea01a42bb0d3e8d21582a9d73e4ba15.nq.gz",
       "dependencies": [
         {
-          "packageName": "twine",
-          "githubOrg": "pypa",
-          "githubRepo": "twine"
-        },
-        {
           "packageName": "pretend",
+          "packageVersion": "1.0.9",
           "githubOrg": "alex",
-          "githubRepo": "pretend"
+          "githubRepo": "pretend",
+          "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
         },
         {
-          "packageName": "requests-toolbelt",
-          "githubOrg": "requests",
-          "githubRepo": "toolbelt"
+          "packageName": "twine",
+          "packageVersion": "6.2.0",
+          "githubOrg": "pypa",
+          "githubRepo": "twine",
+          "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
         },
         {
           "packageName": "pytest",
+          "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "requests-toolbelt",
+          "packageVersion": "1.0.0",
+          "githubOrg": "requests",
+          "githubRepo": "toolbelt",
+          "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2"
         }
       ]
     },
