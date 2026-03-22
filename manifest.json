@@ -19067,18 +19067,39 @@
           "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
-          "packageName": "readme-renderer",
-          "packageVersion": "44.0.0",
+          "packageName": "pretend",
+          "packageVersion": "1.0.9",
+          "githubOrg": "alex",
+          "githubRepo": "pretend",
+          "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
+        },
+        {
+          "packageName": "keyring",
+          "packageVersion": "9.3.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "keyring",
+          "githubCommit": "f8652ed31ec9dc9622ecf838794b3890fc15d9ef"
+        },
+        {
+          "packageName": "packaging",
+          "packageVersion": "26.0.0rc3",
           "githubOrg": "pypa",
-          "githubRepo": "readme_renderer",
+          "githubRepo": "packaging",
           "githubCommit": "HEAD"
         },
         {
-          "packageName": "portend",
-          "packageVersion": "3.2.1",
-          "githubOrg": "jaraco",
-          "githubRepo": "portend",
-          "githubCommit": "c0f805a8892f1a46ebfb0a6e8550cfd7104eb542"
+          "packageName": "importlib-metadata",
+          "packageVersion": "9.0.0",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe"
+        },
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
         },
         {
           "packageName": "requests-toolbelt",
@@ -19102,25 +19123,11 @@
           "githubCommit": "0248277dd7ac0239204889ca991353ad3e3a1ddc"
         },
         {
-          "packageName": "pretend",
-          "packageVersion": "1.0.9",
-          "githubOrg": "alex",
-          "githubRepo": "pretend",
-          "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
-        },
-        {
-          "packageName": "importlib-metadata",
-          "packageVersion": "9.0.0",
-          "githubOrg": "python",
-          "githubRepo": "importlib_metadata",
-          "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe"
-        },
-        {
-          "packageName": "colorama",
-          "packageVersion": "0.4.6rc1",
-          "githubOrg": "tartley",
-          "githubRepo": "colorama",
-          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+          "packageName": "portend",
+          "packageVersion": "3.2.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "portend",
+          "githubCommit": "c0f805a8892f1a46ebfb0a6e8550cfd7104eb542"
         },
         {
           "packageName": "tqdm",
@@ -19130,18 +19137,11 @@
           "githubCommit": "a65e34751843141527b0af76f8133be7e92fa043"
         },
         {
-          "packageName": "packaging",
-          "packageVersion": "26.0.0rc3",
+          "packageName": "readme-renderer",
+          "packageVersion": "44.0.0",
           "githubOrg": "pypa",
-          "githubRepo": "packaging",
+          "githubRepo": "readme_renderer",
           "githubCommit": "HEAD"
-        },
-        {
-          "packageName": "keyring",
-          "packageVersion": "9.3.1",
-          "githubOrg": "jaraco",
-          "githubRepo": "keyring",
-          "githubCommit": "f8652ed31ec9dc9622ecf838794b3890fc15d9ef"
         }
       ]
     },
