@@ -5142,8 +5142,10 @@
       "dependencies": [
         {
           "packageName": "twine",
+          "packageVersion": "6.2.0",
           "githubOrg": "pypa",
-          "githubRepo": "twine"
+          "githubRepo": "twine",
+          "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
         }
       ]
     },
