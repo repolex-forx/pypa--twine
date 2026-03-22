@@ -1,0 +1,99 @@
+{
+  "commit": "ce3e76d899736f0dffd619c88961bce838f5931f",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/ce3e76d899736f0dffd619c88961bce838f5931f.nq.gz",
+      "size_bytes": 971622
+    },
+    "dep": {
+      "path": "dep/ce3e76d899736f0dffd619c88961bce838f5931f.nq.gz",
+      "size_bytes": 1407
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "portend",
+      "packageVersion": "3.2.1",
+      "githubOrg": "jaraco",
+      "githubRepo": "portend",
+      "githubCommit": "c0f805a8892f1a46ebfb0a6e8550cfd7104eb542"
+    },
+    {
+      "packageName": "twine",
+      "packageVersion": "6.2.0",
+      "githubOrg": "pypa",
+      "githubRepo": "twine",
+      "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
+    },
+    {
+      "packageName": "pretend",
+      "packageVersion": "1.0.9",
+      "githubOrg": "alex",
+      "githubRepo": "pretend",
+      "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "requests-toolbelt",
+      "packageVersion": "1.0.0",
+      "githubOrg": "requests",
+      "githubRepo": "toolbelt",
+      "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2"
+    },
+    {
+      "packageName": "munch",
+      "packageVersion": "4.0.0",
+      "githubOrg": "Infinidat",
+      "githubRepo": "munch",
+      "githubCommit": "ce6d843b3f6c88ceb17cd0a2dab9f5ebdbf4f728"
+    },
+    {
+      "packageName": "keyring",
+      "packageVersion": "9.3.1",
+      "githubOrg": "jaraco",
+      "githubRepo": "keyring",
+      "githubCommit": "f8652ed31ec9dc9622ecf838794b3890fc15d9ef"
+    },
+    {
+      "packageName": "importlib-metadata",
+      "packageVersion": "9.0.0",
+      "githubOrg": "python",
+      "githubRepo": "importlib_metadata",
+      "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe"
+    },
+    {
+      "packageName": "colorama",
+      "packageVersion": "0.4.6rc1",
+      "githubOrg": "tartley",
+      "githubRepo": "colorama",
+      "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+    },
+    {
+      "packageName": "readme-renderer",
+      "packageVersion": "44.0.0",
+      "githubOrg": "pypa",
+      "githubRepo": "readme_renderer",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tqdm",
+      "packageVersion": "4.9.0",
+      "githubOrg": "tqdm",
+      "githubRepo": "tqdm",
+      "githubCommit": "a65e34751843141527b0af76f8133be7e92fa043"
+    },
+    {
+      "packageName": "urllib3",
+      "packageVersion": "2.6.3",
+      "githubOrg": "urllib3",
+      "githubRepo": "urllib3",
+      "githubCommit": "0248277dd7ac0239204889ca991353ad3e3a1ddc"
+    }
+  ]
+}
