@@ -24725,6 +24725,98 @@
         "blob/745752ff2f4ceb8f2c704b51e8fb63108a3a29e0.nq.gz",
         "blob/02cb3708482efe37c700d74066ddc755d3d43924.nq.gz",
         "blob/5942f221681f7763a06c61d5de206496cb17de96.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/36695abf8837aba72d87304d99b789c3f2872c99.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/36695abf8837aba72d87304d99b789c3f2872c99.nq.gz",
+      "repolex": "aggregate/repolex/36695abf8837aba72d87304d99b789c3f2872c99.nq.gz",
+      "dep": "dep/36695abf8837aba72d87304d99b789c3f2872c99.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "twine",
+          "packageVersion": "6.2.0",
+          "githubOrg": "pypa",
+          "githubRepo": "twine",
+          "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
+        },
+        {
+          "packageName": "keyring",
+          "packageVersion": "9.3.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "keyring",
+          "githubCommit": "f8652ed31ec9dc9622ecf838794b3890fc15d9ef"
+        },
+        {
+          "packageName": "rich",
+          "packageVersion": "9.9.0",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich",
+          "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
+        },
+        {
+          "packageName": "importlib-metadata",
+          "packageVersion": "9.0.0",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe"
+        },
+        {
+          "packageName": "urllib3",
+          "packageVersion": "2.6.3",
+          "githubOrg": "urllib3",
+          "githubRepo": "urllib3",
+          "githubCommit": "0248277dd7ac0239204889ca991353ad3e3a1ddc"
+        },
+        {
+          "packageName": "pretend",
+          "packageVersion": "1.0.9",
+          "githubOrg": "alex",
+          "githubRepo": "pretend",
+          "githubCommit": "fed40c9cd3e6aa108fa5043c01ac668b4c2808ed"
+        },
+        {
+          "packageName": "requests-toolbelt",
+          "packageVersion": "1.0.0",
+          "githubOrg": "requests",
+          "githubRepo": "toolbelt",
+          "githubCommit": "b7d1a1fcdda9ebcd9afe5011690ab860fce780c2"
+        },
+        {
+          "packageName": "munch",
+          "packageVersion": "4.0.0",
+          "githubOrg": "Infinidat",
+          "githubRepo": "munch",
+          "githubCommit": "ce6d843b3f6c88ceb17cd0a2dab9f5ebdbf4f728"
+        },
+        {
+          "packageName": "portend",
+          "packageVersion": "3.2.1",
+          "githubOrg": "jaraco",
+          "githubRepo": "portend",
+          "githubCommit": "c0f805a8892f1a46ebfb0a6e8550cfd7104eb542"
+        },
+        {
+          "packageName": "build",
+          "packageVersion": "1.4.0",
+          "githubOrg": "pypa",
+          "githubRepo": "build",
+          "githubCommit": "54f238d1664124e06a68c6c22fd5b1418fa5feb2"
+        },
+        {
+          "packageName": "readme-renderer",
+          "packageVersion": "44.0.0",
+          "githubOrg": "pypa",
+          "githubRepo": "readme_renderer",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],
